@@ -75,7 +75,7 @@ img#four {
     position: absolute;
     bottom: 200px;
     left: 50%;
-    color: black;
+    color: rgb(48, 44, 44);
     border-radius: 5px;
     background-color:rgb(109, 97, 97);
 }
